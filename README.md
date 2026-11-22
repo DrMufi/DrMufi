@@ -365,6 +365,20 @@ Modern media/TV-style content application â€” standalone TypeScript repo.
 
 <a id="-full-application-index"></a>
 
+### Newly imported from Disk F
+| App | Repo |
+| --- | --- |
+| Solar ERP Pro | https://github.com/DrMufi/solar-erp-pro |
+| School Management System | https://github.com/DrMufi/school-management-system |
+| A Mitra Furniture WMS | https://github.com/DrMufi/amitrafurniture-wms |
+| CLES | https://github.com/DrMufi/cles |
+| Retail POS Platform (.NET) | https://github.com/DrMufi/retail-pos-platform |
+| CFC Cafe Manager | https://github.com/DrMufi/cfc-cafe-manager |
+| AuthenticWrite AI | https://github.com/DrMufi/authenticwrite-ai |
+| Dev Portfolio | https://github.com/DrMufi/dev-portfolio |
+| Remote Link | https://github.com/DrMufi/remote-link |
+
+
 | # | Application | Dedicated repository | Category | Visibility |
 | ---: | --- | --- | --- | --- |
 | 01 | Gul Traders | [DrMufi/gul-traders](https://github.com/DrMufi/gul-traders) | Offline POS / Commerce OS | Public |
@@ -492,4 +506,5 @@ Healthcare (3): HMS-LIMS, Admoclinics, mustafa-hms;
 Digital/Client (9): Online-Mart, Darvesh, Cyber-Menta, Way-Study-Consultants, Personal-Portfolio, Web-Application, web-app, Chatbot, ShalTv.
 Stack: TypeScript, React, Rust/Tauri, PHP, Python, SQLite, MySQL. Focus: installable enterprise applications for retail, healthcare, and client delivery.
 -->
+
 
