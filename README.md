@@ -1,7 +1,7 @@
-<!--
+﻿<!--
 SEO / LLM PROFILE BRIEF
 Name: Muhammad Mustafa | GitHub: https://github.com/DrMufi
-Role: Enterprise Software Engineer — multi-application product network
+Role: Enterprise Software Engineer â€” multi-application product network
 Model: Each application is a dedicated repository (collaboration-style product catalog)
 Domains: Enterprise POS, offline desktop, HMS/LIMS/pharmacy, agency, consultancy, marketplace, assistants, media
 Flagship: https://github.com/DrMufi/gul-traders
@@ -15,11 +15,11 @@ Keywords: enterprise POS, offline POS, debt ledger, Roznamcha, HMS, LIMS, pharma
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:0B1F3A,45:1F4B82,70:2F66AD,100:58A6FF&height=280&section=header&text=Muhammad%20Mustafa&fontSize=52&fontColor=ffffff&fontAlignY=28&desc=Enterprise%20Software%20Engineer%20%7C%20Multi-Application%20Product%20Network&descAlignY=48&descSize=15&animation=fadeIn"
   width="100%"
-  alt="Muhammad Mustafa — Enterprise Software Engineer with a multi-application product network"
+  alt="Muhammad Mustafa â€” Enterprise Software Engineer with a multi-application product network"
 />
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4B82,50:2F66AD,100:58A6FF&height=86&section=header&text=18%2B%20standalone%20applications%20%C2%B7%20each%20with%20its%20own%20repository&fontSize=17&fontColor=ffffff&fontAlignY=40&desc=POS%20%E2%80%A2%20Healthcare%20%E2%80%A2%20Agency%20%E2%80%A2%20Consultancy%20%E2%80%A2%20Marketplace%20%E2%80%A2%20Assistants%20%E2%80%A2%20Media&descSize=12&descAlignY=70"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4B82,50:2F66AD,100:58A6FF&height=86&section=header&text=21%2B%20standalone%20applications%20%C2%B7%20each%20with%20its%20own%20repository&fontSize=17&fontColor=ffffff&fontAlignY=40&desc=POS%20%E2%80%A2%20Healthcare%20%E2%80%A2%20Agency%20%E2%80%A2%20Consultancy%20%E2%80%A2%20Marketplace%20%E2%80%A2%20Assistants%20%E2%80%A2%20Media&descSize=12&descAlignY=70"
   width="100%"
   alt="18+ standalone applications each with its own repository"
 />
@@ -31,7 +31,7 @@ Keywords: enterprise POS, offline POS, debt ledger, Roznamcha, HMS, LIMS, pharma
 <br/><br/>
 
 <a href="https://github.com/DrMufi"><img src="https://img.shields.io/badge/GitHub-DrMufi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub DrMufi" /></a>
-<a href="https://github.com/DrMufi?tab=repositories"><img src="https://img.shields.io/badge/Applications-18%2B%20Repos-1F4B82?style=for-the-badge" alt="18+ application repos" /></a>
+<a href="https://github.com/DrMufi?tab=repositories"><img src="https://img.shields.io/badge/Applications-21%2B%20Repos-1F4B82?style=for-the-badge" alt="18+ application repos" /></a>
 <a href="https://github.com/DrMufi/gul-traders"><img src="https://img.shields.io/badge/Flagship-Gul%20Traders-58A6FF?style=for-the-badge&logo=rust&logoColor=white" alt="Gul Traders" /></a>
 <a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://img.shields.io/badge/Clinical-HMS%20LIMS-238636?style=for-the-badge&logo=php&logoColor=white" alt="HMS LIMS" /></a>
 <img src="https://komarev.com/ghpvc/?username=DrMufi&style=for-the-badge&color=2F66AD&label=Profile+Views" alt="Profile views" />
@@ -43,15 +43,15 @@ profile:
   name: Muhammad Mustafa
   handle: DrMufi
   url: https://github.com/DrMufi
-  model: "Application collab network — each product is a dedicated GitHub repository"
-  applications_count: 18
+  model: "Application collab network â€” each product is a dedicated GitHub repository"
+  applications_count: 21
   categories: [POS Commerce, Healthcare, Agency Digital, Consultancy, Marketplace, Assistants, Media]
   flagship: https://github.com/DrMufi/gul-traders
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-bff8-d43794391dd7.gif" width="100%" alt="" />
 
-## 📌 Navigate
+## ðŸ“Œ Navigate
 
 <p align="center">
   <a href="#-application-collab-network"><img src="https://img.shields.io/badge/App%20Network-1F4B82?style=for-the-badge" alt="App Network" /></a>
@@ -72,21 +72,21 @@ profile:
 
 ### How this portfolio is organized
 
-Each item is a **separate application collaboration** — its own repository, own scope, own delivery track.
+Each item is a **separate application collaboration** â€” its own repository, own scope, own delivery track.
 
 | Principle | Practice |
 | --- | --- |
-| One app → one repo | No mega-monorepo dumping unrelated products together |
+| One app â†’ one repo | No mega-monorepo dumping unrelated products together |
 | Production intent | Built as operable systems for shops, clinics, agencies, or clients |
 | Clear boundaries | POS, healthcare, digital, consultancy, assistants kept as distinct products |
 | Evolving lines | Public surfaces + private production/official tracks where needed |
 
 ```text
-                    Muhammad Mustafa · Product Network
-        ┌──────────────┬──────────────┬──────────────────┐
-        │ POS Commerce │  Healthcare  │ Digital / Client │
-        │ 6 apps       │  3 apps      │  9 apps          │
-        └──────────────┴──────────────┴──────────────────┘
+                    Muhammad Mustafa Â· Product Network
+        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+        â”‚ POS Commerce â”‚  Healthcare  â”‚ Digital / Client â”‚
+        â”‚ 6 apps       â”‚  3 apps      â”‚  9 apps          â”‚
+        â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
               each node = dedicated GitHub repository
 ```
 
@@ -104,20 +104,20 @@ Each item is a **separate application collaboration** — its own repository, ow
 
 ### 1. Gul Traders
 **Offline bilingual retail POS**  
-Repo: [`DrMufi/gul-traders`](https://github.com/DrMufi/gul-traders) · `Public`
+Repo: [`DrMufi/gul-traders`](https://github.com/DrMufi/gul-traders) Â· `Public`
 
 <a href="https://github.com/DrMufi/gul-traders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=gul-traders&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82&description_lines_count=2" alt="Gul Traders app repo" /></a>
 
 **Developed as:** full shop operating system  
 **Includes:** live cart, cash/bank/card, debt ledger, stock, Roznamcha, reports, encrypted backups, Windows installer, EN + Urdu RTL  
-**Stack:** Tauri · React · Rust · SQLite
+**Stack:** Tauri Â· React Â· Rust Â· SQLite
 
 </td>
 <td width="50%" valign="top">
 
 ### 2. Ismail POS
 **Retail counter POS application**  
-Repo: [`DrMufi/Ismail-POS`](https://github.com/DrMufi/Ismail-POS) · `Public`
+Repo: [`DrMufi/Ismail-POS`](https://github.com/DrMufi/Ismail-POS) Â· `Public`
 
 <a href="https://github.com/DrMufi/Ismail-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Ismail-POS&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Ismail POS app repo" /></a>
 
@@ -132,21 +132,21 @@ Repo: [`DrMufi/Ismail-POS`](https://github.com/DrMufi/Ismail-POS) · `Public`
 
 ### 3. Ismail POS Official
 **Production / official POS application**  
-Repo: [`DrMufi/Ismail-POS-Official`](https://github.com/DrMufi/Ismail-POS-Official) · `Private collab`
+Repo: [`DrMufi/Ismail-POS-Official`](https://github.com/DrMufi/Ismail-POS-Official) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-Ismail%20POS%20Official-1F4B82?style=for-the-badge" alt="Ismail POS Official" />
 <img src="https://img.shields.io/badge/Repo-Private%20Collaboration-0D1117?style=for-the-badge&logo=github" alt="Private" />
 
 **Developed as:** official deployment track for real shop go-live  
 **Includes:** production checkout, inventory-aware selling, deployment-oriented POS line  
-**Relationship:** sister application to public Ismail POS — **own repository**
+**Relationship:** sister application to public Ismail POS â€” **own repository**
 
 </td>
 <td width="50%" valign="top">
 
 ### 4. NEWPROJECT POS
 **Next-gen POS platform application**  
-Repo: [`DrMufi/NEWPROJECTPOS`](https://github.com/DrMufi/NEWPROJECTPOS) · `Private collab`
+Repo: [`DrMufi/NEWPROJECTPOS`](https://github.com/DrMufi/NEWPROJECTPOS) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-NEWPROJECT%20POS-58A6FF?style=for-the-badge" alt="NEWPROJECT POS" />
 <img src="https://img.shields.io/badge/Repo-Private%20Collaboration-0D1117?style=for-the-badge&logo=github" alt="Private" />
@@ -162,7 +162,7 @@ Repo: [`DrMufi/NEWPROJECTPOS`](https://github.com/DrMufi/NEWPROJECTPOS) · `Priv
 
 ### 5. Smart Energy POS
 **Electrical / energy vertical POS**  
-Repo: [`DrMufi/Smart-Energy-POS`](https://github.com/DrMufi/Smart-Energy-POS) · `Public`
+Repo: [`DrMufi/Smart-Energy-POS`](https://github.com/DrMufi/Smart-Energy-POS) Â· `Public`
 
 <a href="https://github.com/DrMufi/Smart-Energy-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Smart-Energy-POS&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Smart Energy POS app repo" /></a>
 
@@ -175,7 +175,7 @@ Repo: [`DrMufi/Smart-Energy-POS`](https://github.com/DrMufi/Smart-Energy-POS) ·
 
 ### 6. Eagle Traders
 **Desktop traders operations application**  
-Repo: [`DrMufi/eagle_traders_pyqt`](https://github.com/DrMufi/eagle_traders_pyqt) · `Public`
+Repo: [`DrMufi/eagle_traders_pyqt`](https://github.com/DrMufi/eagle_traders_pyqt) Â· `Public`
 
 <a href="https://github.com/DrMufi/eagle_traders_pyqt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=eagle_traders_pyqt&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Eagle Traders app repo" /></a>
 
@@ -201,11 +201,11 @@ Repo: [`DrMufi/eagle_traders_pyqt`](https://github.com/DrMufi/eagle_traders_pyqt
 
 ### 7. HMS-LIMS
 **Hospital + Lab + Pharmacy app**  
-[`DrMufi/HMS-LIMS`](https://github.com/DrMufi/HMS-LIMS) · `Public`
+[`DrMufi/HMS-LIMS`](https://github.com/DrMufi/HMS-LIMS) Â· `Public`
 
 <a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=HMS-LIMS&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82&description_lines_count=2" alt="HMS-LIMS app" /></a>
 
-**Modules:** HMS · LIMS · Pharmacy · Reception  
+**Modules:** HMS Â· LIMS Â· Pharmacy Â· Reception  
 **Stack:** PHP clinical operations platform
 
 </td>
@@ -213,7 +213,7 @@ Repo: [`DrMufi/eagle_traders_pyqt`](https://github.com/DrMufi/eagle_traders_pyqt
 
 ### 8. Admoclinics
 **Clinic / hospital management app**  
-[`DrMufi/Admoclinics`](https://github.com/DrMufi/Admoclinics) · `Public`
+[`DrMufi/Admoclinics`](https://github.com/DrMufi/Admoclinics) Â· `Public`
 
 <a href="https://github.com/DrMufi/Admoclinics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Admoclinics&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Admoclinics app" /></a>
 
@@ -224,7 +224,7 @@ Repo: [`DrMufi/eagle_traders_pyqt`](https://github.com/DrMufi/eagle_traders_pyqt
 
 ### 9. Mustafa HMS
 **HMS modules application**  
-[`DrMufi/mustafa-hms`](https://github.com/DrMufi/mustafa-hms) · `Public`
+[`DrMufi/mustafa-hms`](https://github.com/DrMufi/mustafa-hms) Â· `Public`
 
 <a href="https://github.com/DrMufi/mustafa-hms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=mustafa-hms&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="mustafa-hms app" /></a>
 
@@ -248,7 +248,7 @@ Repo: [`DrMufi/eagle_traders_pyqt`](https://github.com/DrMufi/eagle_traders_pyqt
 
 ### 10. Online Mart
 **Swiss Mart marketplace app**  
-[`DrMufi/Online-Mart`](https://github.com/DrMufi/Online-Mart) · `Public`
+[`DrMufi/Online-Mart`](https://github.com/DrMufi/Online-Mart) Â· `Public`
 
 <a href="https://github.com/DrMufi/Online-Mart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Online-Mart&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Online Mart" /></a>
 
@@ -259,7 +259,7 @@ E-commerce / marketplace application in TypeScript.
 
 ### 11. Darvesh
 **Commercial brand web app**  
-[`DrMufi/Darvesh`](https://github.com/DrMufi/Darvesh) · `Public`
+[`DrMufi/Darvesh`](https://github.com/DrMufi/Darvesh) Â· `Public`
 
 <a href="https://github.com/DrMufi/Darvesh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Darvesh&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Darvesh" /></a>
 
@@ -270,12 +270,12 @@ Business website application for the Darvesh brand.
 
 ### 12. Cyber-Menta
 **Agency platform application**  
-[`DrMufi/Cyber-Menta`](https://github.com/DrMufi/Cyber-Menta) · `Private collab`
+[`DrMufi/Cyber-Menta`](https://github.com/DrMufi/Cyber-Menta) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-Cyber--Menta-F78166?style=for-the-badge" alt="Cyber-Menta" />
 <img src="https://img.shields.io/badge/TypeScript-Agency%20Platform-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
 
-Enterprise-grade agency/services website application — **own repo**.
+Enterprise-grade agency/services website application â€” **own repo**.
 
 </td>
 </tr>
@@ -284,19 +284,19 @@ Enterprise-grade agency/services website application — **own repo**.
 
 ### 13. Way Study Consultants
 **Education consultancy app**  
-[`DrMufi/Way-Study-Consultants`](https://github.com/DrMufi/Way-Study-Consultants) · `Private collab`
+[`DrMufi/Way-Study-Consultants`](https://github.com/DrMufi/Way-Study-Consultants) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-Way%20Study-1F4B82?style=for-the-badge" alt="Way Study" />
 <img src="https://img.shields.io/badge/TypeScript-Consultancy%20Ops-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
 
-Consultancy operations & client service application — dedicated repository.
+Consultancy operations & client service application â€” dedicated repository.
 
 </td>
 <td width="33%" valign="top">
 
 ### 14. Personal Portfolio
 **Portfolio product application**  
-[`DrMufi/Personal-Portfolio`](https://github.com/DrMufi/Personal-Portfolio) · `Private collab`
+[`DrMufi/Personal-Portfolio`](https://github.com/DrMufi/Personal-Portfolio) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-Portfolio-58A6FF?style=for-the-badge" alt="Portfolio" />
 <img src="https://img.shields.io/badge/TypeScript-Brand%20Product-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
@@ -308,7 +308,7 @@ Professional brand/portfolio application as its own product repo.
 
 ### 15. Web Application Suite
 **Custom business web apps**  
-[`DrMufi/Web-Application`](https://github.com/DrMufi/Web-Application) · `Private collab`
+[`DrMufi/Web-Application`](https://github.com/DrMufi/Web-Application) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-Web%20Application-238636?style=for-the-badge" alt="Web Application" />
 <img src="https://img.shields.io/badge/TypeScript-Enterprise%20Web-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
@@ -322,19 +322,19 @@ Dedicated suite repo for enterprise/custom web software delivery.
 
 ### 16. web-app
 **Web platform application**  
-[`DrMufi/web-app`](https://github.com/DrMufi/web-app) · `Private collab`
+[`DrMufi/web-app`](https://github.com/DrMufi/web-app) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-web--app-2F66AD?style=for-the-badge" alt="web-app" />
 <img src="https://img.shields.io/badge/JavaScript-Platform-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
 
-Supporting business web platform — separate repository from the suite above.
+Supporting business web platform â€” separate repository from the suite above.
 
 </td>
 <td width="33%" valign="top">
 
 ### 17. Chatbot
 **Conversational assistant app**  
-[`DrMufi/Chatbot`](https://github.com/DrMufi/Chatbot) · `Private collab`
+[`DrMufi/Chatbot`](https://github.com/DrMufi/Chatbot) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-Chatbot-3776AB?style=for-the-badge" alt="Chatbot" />
 <img src="https://img.shields.io/badge/Python-Assistant-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -346,12 +346,12 @@ Intelligent chatbot application for business engagement workflows.
 
 ### 18. ShalTv
 **Media / TV experience app**  
-[`DrMufi/ShalTv`](https://github.com/DrMufi/ShalTv) · `Private collab`
+[`DrMufi/ShalTv`](https://github.com/DrMufi/ShalTv) Â· `Private collab`
 
 <img src="https://img.shields.io/badge/App-ShalTv-A371F7?style=for-the-badge" alt="ShalTv" />
 <img src="https://img.shields.io/badge/TypeScript-Media-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
 
-Modern media/TV-style content application — standalone TypeScript repo.
+Modern media/TV-style content application â€” standalone TypeScript repo.
 
 </td>
 </tr>
@@ -385,6 +385,9 @@ Modern media/TV-style content application — standalone TypeScript repo.
 | 16 | web-app | [DrMufi/web-app](https://github.com/DrMufi/web-app) | Web platform | Private collab |
 | 17 | Chatbot | [DrMufi/Chatbot](https://github.com/DrMufi/Chatbot) | Assistant application | Private collab |
 | 18 | ShalTv | [DrMufi/ShalTv](https://github.com/DrMufi/ShalTv) | Media application | Private collab |
+| 19 | CFC Cafe Manager | [DrMufi/cfc-cafe-manager](https://github.com/DrMufi/cfc-cafe-manager) | Cafe POS / desktop ops | Private collab |
+| 20 | AuthenticWrite AI | [DrMufi/authenticwrite-ai](https://github.com/DrMufi/authenticwrite-ai) | Writing authenticity SaaS | Private collab |
+| 21 | Dev Portfolio | [DrMufi/dev-portfolio](https://github.com/DrMufi/dev-portfolio) | Portfolio product | Private collab |
 
 ```yaml
 application_network:
@@ -489,3 +492,4 @@ Healthcare (3): HMS-LIMS, Admoclinics, mustafa-hms;
 Digital/Client (9): Online-Mart, Darvesh, Cyber-Menta, Way-Study-Consultants, Personal-Portfolio, Web-Application, web-app, Chatbot, ShalTv.
 Stack: TypeScript, React, Rust/Tauri, PHP, Python, SQLite, MySQL. Focus: installable enterprise applications for retail, healthcare, and client delivery.
 -->
+
