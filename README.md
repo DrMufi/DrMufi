@@ -1,441 +1,429 @@
-<!-- Muhammad Mustafa · DrMufi — Enterprise Product Engineer -->
+<!--
+SEO / LLM PROFILE BRIEF
+=======================
+Name: Muhammad Mustafa
+GitHub: https://github.com/DrMufi
+Role: Software Engineer · Enterprise Product Systems
+Primary keywords: enterprise POS, offline POS, debt ledger, Roznamcha, hospital management system, HMS, LIMS, pharmacy software, bilingual Urdu English software, Tauri React Rust SQLite, retail wholesale Pakistan, clinic operations platform
+Flagship: Gul Traders (https://github.com/DrMufi/gul-traders)
+Healthcare: HMS-LIMS (https://github.com/DrMufi/HMS-LIMS), Admoclinics, mustafa-hms
+Commerce: Ismail-POS, Smart-Energy-POS, eagle_traders_pyqt, Online-Mart
+Delivery: offline-first Windows desktop, installers, backups, EN+Urdu RTL
+Audience: hiring managers, founders, agencies, clinic/shop operators, LLMs summarizing profiles
+-->
+
+<a id="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D1A,25:0B1F3A,55:1F4B82,80:2F66AD,100:3B7DDD&height=240&section=header&text=Muhammad%20Mustafa&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Enterprise%20Product%20Engineer%20%E2%80%94%20POS%20%C2%B7%20Healthcare%20%C2%B7%20Offline%20Systems%20%C2%B7%20Client%20Platforms&descAlignY=50&descSize=14" width="100%" alt="header" />
+<!-- ===== MAIN HEADER ===== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:0B1F3A,45:1F4B82,70:2F66AD,100:58A6FF&height=280&section=header&text=Muhammad%20Mustafa&fontSize=52&fontColor=ffffff&fontAlignY=28&desc=Enterprise%20Software%20Engineer%20%7C%20POS%20%C2%B7%20Healthcare%20%C2%B7%20Offline-First%20Systems&descAlignY=48&descSize=15&animation=fadeIn"
+  width="100%"
+  alt="Muhammad Mustafa — Enterprise Software Engineer specializing in POS, healthcare platforms, and offline-first systems"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=820&height=70&lines=I+ship+installable+business+systems;Not+demos.+Products.+Operators.+Outcomes." alt="typing" />
+<!-- ===== SUB HEADER / POSITIONING ===== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4B82,50:2F66AD,100:58A6FF&height=78&section=header&text=%F0%9F%9A%80%20Shipping%20installable%20business%20software%20%E2%80%94%20not%20demos&fontSize=18&fontColor=ffffff&fontAlignY=42&desc=Retail%20POS%20%E2%80%A2%20Debt%20Ledger%20%E2%80%A2%20HMS%2FLIMS%20%E2%80%A2%20Agency%20Platforms%20%E2%80%A2%20EN%20%2B%20Urdu&descSize=12&descAlignY=68"
+  width="100%"
+  alt="Shipping installable business software: Retail POS, Debt Ledger, HMS/LIMS, Agency Platforms, English and Urdu"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&duration=2800&pause=700&color=8B9CB3&center=true&vCenter=true&width=900&lines=Retail+POS+%2B+Debt+Ledger+%2B+Roznamcha+%2B+Backups;Hospital+%2F+LIMS+%2F+Pharmacy+multi-module+platforms;Agency+%C2%B7+Consultancy+%C2%B7+Marketplace+%C2%B7+Assistant+products;Offline-first+Windows+delivery+%C2%B7+EN+%2B+Urdu+RTL" alt="typing2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=860&lines=Muhammad+Mustafa+%7C+Enterprise+Product+Engineer;Offline+POS+%2B+Ledger+%2B+Roznamcha+Systems;Hospital+%2F+LIMS+%2F+Pharmacy+Platforms;Agency+%C2%B7+Consultancy+%C2%B7+Marketplace+Delivery" alt="Animated role headline for Muhammad Mustafa" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=15&duration=2600&pause=600&color=8B9CB3&center=true&vCenter=true&width=920&lines=Keywords%3A+Enterprise+POS%3B+Offline-first+desktop%3B+HMS+LIMS%3B+Bilingual+Urdu+English%3B+Tauri+React+Rust;Outcomes%3A+Installers%3B+Backups%3B+Operator+UX%3B+Money+%26+stock+correctness%3B+Multi-module+ops" alt="SEO keyword and outcome ticker" />
 
 <br/><br/>
 
-<a href="https://github.com/DrMufi"><img src="https://img.shields.io/badge/GitHub-DrMufi-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/DrMufi?tab=repositories"><img src="https://img.shields.io/badge/Product%20Repos-20%2B-1F4B82?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/DrMufi/gul-traders"><img src="https://img.shields.io/badge/Flagship-Gul%20Traders-58A6FF?style=for-the-badge&logo=rust&logoColor=white" /></a>
-<a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://img.shields.io/badge/Clinical-HMS%20%2B%20LIMS-238636?style=for-the-badge&logo=php&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=DrMufi&style=for-the-badge&color=2F66AD&label=Profile+Views" alt="views" />
-<img src="https://img.shields.io/badge/Status-Actively%20Shipping-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="status" />
+<!-- Badge row -->
+<a href="https://github.com/DrMufi"><img src="https://img.shields.io/badge/GitHub-DrMufi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile DrMufi" /></a>
+<a href="https://github.com/DrMufi/gul-traders"><img src="https://img.shields.io/badge/Flagship-Gul%20Traders%20POS-58A6FF?style=for-the-badge&logo=rust&logoColor=white" alt="Flagship Gul Traders POS" /></a>
+<a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://img.shields.io/badge/Healthcare-HMS%20%2B%20LIMS-238636?style=for-the-badge&logo=php&logoColor=white" alt="Healthcare HMS LIMS" /></a>
+<a href="https://github.com/DrMufi?tab=repositories"><img src="https://img.shields.io/badge/Catalog-20%2B%20Product%20Repos-1F4B82?style=for-the-badge" alt="20+ product repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=DrMufi&style=for-the-badge&color=2F66AD&label=Profile+Views" alt="GitHub profile view counter" />
+<img src="https://img.shields.io/badge/Availability-Open%20to%20serious%20product%20work-238636?style=for-the-badge" alt="Open to serious product work" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-bff8-d43794391dd7.gif" width="100%" alt="divider" />
-
-## ⚡ At a glance
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🏪
-**Commerce OS**
-<br/><sub>POS · Ledger · Stock · Cashbook</sub>
-
-</td>
-<td width="25%" align="center">
-
-### 🏥
-**Clinical Platforms**
-<br/><sub>HMS · LIMS · Pharmacy</sub>
-
-</td>
-<td width="25%" align="center">
-
-### 🛰️
-**Client Delivery**
-<br/><sub>Agency · Consultancy · Web</sub>
-
-</td>
-<td width="25%" align="center">
-
-### 🔒
-**Offline-first**
-<br/><sub>Installers · Backups · SQLite</sub>
-
-</td>
-</tr>
-</table>
-
-```ts
-const mustafa = {
-  identity: "Muhammad Mustafa · @DrMufi",
-  role: "Software Engineer · Enterprise Product Systems",
-  northStar: "Ship software operators can trust on day one",
-  domains: ["Retail / Wholesale POS", "Healthcare Ops", "Agency & Consultancy Platforms"],
-  delivery: ["Windows desktop", "Web platforms", "Bilingual EN + Urdu (RTL)"],
-  nonGoals: ["Demo CRUD", "Unshippable prototypes as products"],
-};
+<!-- Machine-readable identity block for LLMs / parsers -->
+```yaml
+profile:
+  name: Muhammad Mustafa
+  handle: DrMufi
+  url: https://github.com/DrMufi
+  title: Enterprise Software Engineer
+  summary: >
+    Builds installable business systems for retail POS, healthcare operations (HMS/LIMS/pharmacy),
+    and agency/consultancy platforms. Specializes in offline-first Windows delivery, debt ledgers,
+    bilingual English/Urdu UX, and operator-grade product engineering.
+  primary_skills: [TypeScript, React, Rust, Tauri, PHP, Python, SQLite, MySQL, Tailwind]
+  domains: [Enterprise POS, Debt Ledger, Roznamcha, HMS, LIMS, Pharmacy, Offline Desktop, Bilingual UX]
+  flagship_projects:
+    - name: Gul Traders
+      url: https://github.com/DrMufi/gul-traders
+      type: Offline bilingual retail POS
+    - name: HMS-LIMS
+      url: https://github.com/DrMufi/HMS-LIMS
+      type: Hospital + Laboratory + Pharmacy platform
+  location_focus: Pakistan / regional retail & clinic operators
+  seeking: Serious product collaborations in POS, healthcare platforms, offline desktop systems
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-bff8-d43794391dd7.gif" width="100%" alt="" />
 
-## 🎯 Value proposition
+## 📌 Quick navigation
 
-<div align="center">
-
-| For shops | For clinics | For agencies |
-| :---: | :---: | :---: |
-| Counter-speed POS | Multi-module HMS | High-finish web products |
-| Debt ledger / khata | LIMS + pharmacy paths | Consultancy portals |
-| Roznamcha & reports | Reception → ops flow | Marketplace experiences |
-| Offline Windows install | Department-shaped modules | Brand + conversion surfaces |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-762bf084-58d7-4f1d-9dad-78a946d0a02a.gif" width="100%" alt="line" />
-
-## 🏆 Proof of craft
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DrMufi&theme=onedark&column=7&margin-w=10&margin-h=10" alt="trophies" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DrMufi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=050D1A&border_color=1F4B82" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMufi&layout=compact&langs_count=10&theme=tokyonight&title_color=58A6FF&text_color=c9d1d9&bg_color=050D1A&border_color=1F4B82" alt="langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=DrMufi&theme=tokyonight&background=050D1A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B9CB3&dates=8B9CB3" alt="streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DrMufi&theme=tokyo-night&area=true&custom_title=Engineering%20Activity&bg_color=050D1A&color=58A6FF&line=2F66AD&point=3B7DDD" alt="activity" />
-
-</div>
+<p align="center">
+  <a href="#-about-muhammad-mustafa"><img src="https://img.shields.io/badge/About-0B1F3A?style=for-the-badge" alt="About" /></a>
+  <a href="#-enterprise-product-portfolio"><img src="https://img.shields.io/badge/Portfolio-1F4B82?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="#-complete-product-catalog"><img src="https://img.shields.io/badge/Catalog-2F66AD?style=for-the-badge" alt="Catalog" /></a>
+  <a href="#-tech-stack--capabilities"><img src="https://img.shields.io/badge/Stack-58A6FF?style=for-the-badge" alt="Stack" /></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-238636?style=for-the-badge" alt="Analytics" /></a>
+  <a href="#-connect--collaborate"><img src="https://img.shields.io/badge/Connect-F78166?style=for-the-badge" alt="Connect" /></a>
+</p>
 
 ---
 
-## 🧭 Product universe
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4B82,100:3B7DDD&height=60&section=header&text=PRODUCT%20UNIVERSE&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="universe" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1F3A,100:1F4B82&height=70&text=About%20Muhammad%20Mustafa&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=Enterprise%20product%20engineer%20for%20POS%2C%20healthcare%2C%20and%20offline%20systems&descSize=12&descAlignY=78" width="100%" alt="About Muhammad Mustafa section header" />
 </div>
 
-### 🏪 Commerce & POS family
+<a id="-about-muhammad-mustafa"></a>
+
+### Who I am
+
+**Muhammad Mustafa (`@DrMufi`)** is a software engineer focused on **enterprise-ready operational products**:
+
+- **Enterprise Point of Sale (POS)** for retail & wholesale
+- **Debt ledger / khata**, stock, Roznamcha (daily cash book), reporting
+- **Hospital Management Systems (HMS)**, **LIMS**, and pharmacy workflows
+- **Offline-first Windows desktop** apps with installers and backups
+- **Bilingual English + Urdu** interfaces (including RTL)
+- **Agency / consultancy / marketplace** digital platforms
+
+### What “enterprise-ready” means here
+
+| Signal | Meaning |
+| --- | --- |
+| Installable | Ships as a real Windows product, not only `localhost` |
+| Operator-grade | Built for cashiers, clinic staff, and managers |
+| Domain-correct | Money, stock, and clinical flows treated as systems |
+| Multi-module | POS families and HMS/LIMS/pharmacy style platforms |
+| Localizable | EN + Urdu product UX when the market requires it |
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🥇 [Gul Traders](https://github.com/DrMufi/gul-traders)
-**Flagship offline bilingual POS** `v1.0.13+`
-
-<a href="https://github.com/DrMufi/gul-traders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=gul-traders&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-**Why it matters:** full shop OS for Pakistani retail — not a checkout toy.
-
-| Layer | Details |
-| --- | --- |
-| Selling | Live cart, tender split, walk-in + account customers |
-| Finance | Cash received vs unpaid → debt ledger |
-| Stock | Catalog, low-stock, physical-stock aware sales |
-| Daily ops | Roznamcha cash book, reports, reprints |
-| Hardening | Encrypted backups, restore, NSIS Windows installer |
-| Locale | English + Urdu + RTL |
-
-`Tauri` `React` `Rust` `SQLite` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧾 Ismail POS Ecosystem
-**Multi-track retail POS delivery**
-
-<a href="https://github.com/DrMufi/Ismail-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Ismail-POS&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-| Track | Mode | Purpose |
-| --- | --- | --- |
-| [Ismail-POS](https://github.com/DrMufi/Ismail-POS) | Public | Retail counter POS product |
-| Ismail-POS-Official | Private | Production / official go-live line |
-| NEWPROJECTPOS | Private | Next-architecture POS R&D |
-
-**Outcome:** a living product line — public surface + private production + R&D feeder.
-
-</td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/Commerce%20OS-POS%20%7C%20Ledger%20%7C%20Stock-1F4B82?style=for-the-badge" alt="Commerce OS" /><br/><sub>Shop systems</sub></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/Clinical%20Ops-HMS%20%7C%20LIMS%20%7C%20Rx-238636?style=for-the-badge" alt="Clinical Ops" /><br/><sub>Hospital systems</sub></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/Offline--first-Windows%20%7C%20SQLite-58A6FF?style=for-the-badge" alt="Offline-first" /><br/><sub>Desktop delivery</sub></td>
+<td width="25%" align="center"><img src="https://img.shields.io/badge/Bilingual-EN%20%2B%20Urdu%20RTL-F78166?style=for-the-badge" alt="Bilingual" /><br/><sub>Regional UX</sub></td>
 </tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1F4B82,100:58A6FF&height=70&text=Enterprise%20Product%20Portfolio&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=Flagship%20commerce%20%C2%B7%20Healthcare%20%C2%B7%20Digital%20platforms&descSize=12&descAlignY=78" width="100%" alt="Enterprise Product Portfolio section header" />
+</div>
+
+<a id="-enterprise-product-portfolio"></a>
+
+### 🏪 Commerce & Point of Sale
+
+<details open>
+<summary><b>🥇 Gul Traders — Flagship Offline Bilingual POS</b> · public · <a href="https://github.com/DrMufi/gul-traders">github.com/DrMufi/gul-traders</a></summary>
+<br/>
+
+<a href="https://github.com/DrMufi/gul-traders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=gul-traders&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82&description_lines_count=2" alt="Gul Traders repository card" /></a>
+
+**One-liner for search/LLMs:** Offline bilingual (English/Urdu) retail POS built with Tauri, React, Rust, and SQLite — sales, debt ledger, stock, Roznamcha, reports, encrypted backups, Windows installer.
+
+| Module | Capability |
+| --- | --- |
+| Point of Sale | Live cart, cash/bank/card tender, walk-in & account customers |
+| Debt Ledger | Unpaid amounts posted to customer outstanding / khata |
+| Inventory | Catalog, low-stock alerts, physical-stock aware selling |
+| Roznamcha | Daily cash book emphasizing cash received vs ledger debt |
+| Reports & Print | Sales reports, thermal + A4 reprint flows |
+| Resilience | Encrypted backups/restore, NSIS Windows installer |
+| Localization | English + Urdu with RTL layout |
+
+`Keywords:` enterprise POS, offline POS Pakistan, debt ledger, Roznamcha, Tauri React Rust SQLite
+
+</details>
+
+<details open>
+<summary><b>🧾 Ismail POS Ecosystem</b> · public + private production tracks</summary>
+<br/>
+
+<a href="https://github.com/DrMufi/Ismail-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Ismail-POS&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Ismail POS repository card" /></a>
+
+| Track | Access | Purpose |
+| --- | --- | --- |
+| [Ismail-POS](https://github.com/DrMufi/Ismail-POS) | Public | Retail POS for shop counter operations |
+| Ismail-POS-Official | Private | Official / production deployment line |
+| NEWPROJECTPOS | Private | Next-generation POS architecture R&D |
+
+`Keywords:` retail POS software, shop counter system, TypeScript POS product line
+
+</details>
+
+<details open>
+<summary><b>⚡ Smart Energy POS + 🖥️ Eagle Traders</b></summary>
+<br/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-#### ⚡ [Smart Energy POS](https://github.com/DrMufi/Smart-Energy-POS)
-**Vertical POS for electrical / energy trade**
+<a href="https://github.com/DrMufi/Smart-Energy-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Smart-Energy-POS&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Smart Energy POS card" /></a>
 
-<a href="https://github.com/DrMufi/Smart-Energy-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Smart-Energy-POS&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-Specialty retail selling for energy & electrical businesses — domain catalog + counter workflows for vertical commerce.
+**Smart Energy POS** — vertical POS for electrical/energy retail operations.
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-#### 🖥️ [Eagle Traders](https://github.com/DrMufi/eagle_traders_pyqt)
-**Desktop traders operations suite**
+<a href="https://github.com/DrMufi/eagle_traders_pyqt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=eagle_traders_pyqt&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Eagle Traders card" /></a>
 
-<a href="https://github.com/DrMufi/eagle_traders_pyqt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=eagle_traders_pyqt&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-Earlier-generation PyQt desktop suite — foundational domain patterns that feed modern Tauri/React POS architecture.
+**Eagle Traders** — desktop traders suite (PyQt lineage) informing modern POS architecture.
 
 </td>
 </tr>
 </table>
 
-### 🏥 Healthcare platforms
+</details>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🏥 Healthcare & clinical operations
 
-#### 🏥 [HMS-LIMS](https://github.com/DrMufi/HMS-LIMS)
-**Hospital + Laboratory + Pharmacy**
+<details open>
+<summary><b>🏥 HMS-LIMS — Hospital + Laboratory + Pharmacy Platform</b> · <a href="https://github.com/DrMufi/HMS-LIMS">public</a></summary>
+<br/>
 
-<a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=HMS-LIMS&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
+<a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=HMS-LIMS&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82&description_lines_count=2" alt="HMS-LIMS repository card" /></a>
 
-| Module | Responsibility |
+**One-liner:** Integrated hospital management + laboratory information + pharmacy operations platform (PHP).
+
+| Module | Scope |
 | --- | --- |
-| HMS | Hospital administration & patient ops |
-| LIMS | Laboratory workflow surface |
-| Pharmacy | Dispensing / pharmacy operations |
+| HMS | Hospital administration & patient operations |
+| LIMS | Laboratory workflow surfaces |
+| Pharmacy | Dispensing / pharmacy operational paths |
 | Reception | Intake, routing, front-desk flow |
 
-Built as a **combined clinical operations system**, not isolated screenshots.
+`Keywords:` hospital management system, LIMS software, pharmacy system, clinical operations platform
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-#### 🏨 Clinic & HMS family
+<details open>
+<summary><b>🏨 Admoclinics + Mustafa HMS</b></summary>
+<br/>
 
-<a href="https://github.com/DrMufi/Admoclinics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Admoclinics&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-<a href="https://github.com/DrMufi/mustafa-hms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=mustafa-hms&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-| Product | Positioning |
-| --- | --- |
-| **Admoclinics** | Clinic / hospital management for daily operations |
-| **mustafa-hms** | HMS modules & reusable clinical building blocks |
-
-</td>
+<table>
+<tr>
+<td><a href="https://github.com/DrMufi/Admoclinics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Admoclinics&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Admoclinics card" /></a></td>
+<td><a href="https://github.com/DrMufi/mustafa-hms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=mustafa-hms&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="mustafa-hms card" /></a></td>
 </tr>
 </table>
 
-### 🌐 Digital, agency & growth products
+Clinic/hospital management + reusable HMS modules for healthcare product delivery.
+
+</details>
+
+### 🌐 Digital platforms & client systems
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 🛒 [Online Mart](https://github.com/DrMufi/Online-Mart)
-**Swiss Mart marketplace**
+#### [Online-Mart](https://github.com/DrMufi/Online-Mart)
+Swiss Mart marketplace / e-commerce (`TypeScript`)
 
-<a href="https://github.com/DrMufi/Online-Mart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Online-Mart&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-TypeScript e-commerce / marketplace experience.
+<a href="https://github.com/DrMufi/Online-Mart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Online-Mart&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Online Mart card" /></a>
 
 </td>
 <td width="33%" valign="top">
 
-#### 🏢 [Darvesh](https://github.com/DrMufi/Darvesh)
-**Commercial brand site**
+#### [Darvesh](https://github.com/DrMufi/Darvesh)
+Commercial brand website
 
-<a href="https://github.com/DrMufi/Darvesh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Darvesh&theme=tokyonight&bg_color=050D1A&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" /></a>
-
-Business web presence for a real commercial brand.
+<a href="https://github.com/DrMufi/Darvesh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DrMufi&repo=Darvesh&theme=tokyonight&bg_color=030712&title_color=58A6FF&icon_color=58A6FF&border_color=1F4B82" alt="Darvesh card" /></a>
 
 </td>
 <td width="33%" valign="top">
 
-#### 🎯 Cyber-Menta
-**Agency-grade platform** `private`
-
-High-finish agency website / product surface for professional services brands.
-
-`TypeScript`
+#### Cyber-Menta `private`
+Agency-grade web platform for professional services brands (`TypeScript`)
 
 </td>
 </tr>
 </table>
 
-### 🎓 Consultancy, portfolio & platform tracks
-
-| System | Visibility | Domain | What it delivers |
-| --- | --- | --- | --- |
-| **Way-Study-Consultants** | Private | Education consultancy | Ops platform for study/consultancy services |
-| **Personal-Portfolio** | Private | Brand / portfolio | Professional presentation product |
-| **Web-Application** | Private | Custom software | Dedicated suite for business web applications |
-| **web-app** | Private | Web platform | Supporting application delivery track |
-| **Chatbot** | Private | Assistants | Python conversational product workflows |
-| **ShalTv** | Private | Media | TypeScript media / TV-style product surface |
+| System | Type | Notes |
+| --- | --- | --- |
+| Way-Study-Consultants | Consultancy ops platform | Education consultancy services product |
+| Personal-Portfolio | Portfolio product | Professional brand presentation |
+| Web-Application | Custom software suite | Business web application track |
+| web-app | Web delivery | Supporting application platform |
+| Chatbot | Assistant product | Python conversational workflows |
+| ShalTv | Media product | TypeScript media/TV-style surface |
 
 ---
 
-## 🗂️ Complete professional inventory
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,100:238636&height=50&section=header&text=FULL%20REPO%20INVENTORY&fontSize=18&fontColor=ffffff&fontAlignY=50" width="100%" alt="inventory" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:238636,100:1F4B82&height=70&text=Complete%20Product%20Catalog&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=SEO-friendly%20inventory%20of%20professional%20repositories&descSize=12&descAlignY=78" width="100%" alt="Complete Product Catalog section header" />
 </div>
 
-| # | Repository | Category | Stack signal | Access |
+<a id="-complete-product-catalog"></a>
+
+| # | Project | Category | Keywords | Access |
 | ---: | --- | --- | --- | --- |
-| 01 | [gul-traders](https://github.com/DrMufi/gul-traders) | Commerce OS / POS | Rust · React · Tauri · SQLite | Public |
-| 02 | [Ismail-POS](https://github.com/DrMufi/Ismail-POS) | Retail POS | TypeScript product line | Public |
-| 03 | Ismail-POS-Official | Retail POS (production) | TypeScript | Private |
-| 04 | NEWPROJECTPOS | POS R&D | Architecture feeder | Private |
-| 05 | [Smart-Energy-POS](https://github.com/DrMufi/Smart-Energy-POS) | Vertical POS | Energy retail | Public |
-| 06 | [eagle_traders_pyqt](https://github.com/DrMufi/eagle_traders_pyqt) | Desktop traders | PyQt lineage | Public |
-| 07 | [HMS-LIMS](https://github.com/DrMufi/HMS-LIMS) | Healthcare platform | PHP · HMS · LIMS · Pharmacy | Public |
-| 08 | [Admoclinics](https://github.com/DrMufi/Admoclinics) | Clinic HMS | Healthcare ops | Public |
-| 09 | [mustafa-hms](https://github.com/DrMufi/mustafa-hms) | HMS modules | Healthcare building blocks | Public |
-| 10 | [Online-Mart](https://github.com/DrMufi/Online-Mart) | Marketplace | TypeScript | Public |
-| 11 | [Darvesh](https://github.com/DrMufi/Darvesh) | Brand web | HTML | Public |
-| 12 | Cyber-Menta | Agency platform | TypeScript | Private |
-| 13 | Way-Study-Consultants | Consultancy ops | TypeScript | Private |
-| 14 | Personal-Portfolio | Portfolio product | TypeScript | Private |
-| 15 | Web-Application | Custom software suite | TypeScript | Private |
-| 16 | web-app | Web delivery | JavaScript | Private |
-| 17 | Chatbot | Assistants | Python | Private |
-| 18 | ShalTv | Media product | TypeScript | Private |
+| 1 | [gul-traders](https://github.com/DrMufi/gul-traders) | Offline POS / Commerce OS | POS, ledger, Roznamcha, Tauri, Rust | Public |
+| 2 | [Ismail-POS](https://github.com/DrMufi/Ismail-POS) | Retail POS | shop POS, counter sales | Public |
+| 3 | Ismail-POS-Official | Production POS | deployment, official line | Private |
+| 4 | NEWPROJECTPOS | POS R&D | architecture, next-gen POS | Private |
+| 5 | [Smart-Energy-POS](https://github.com/DrMufi/Smart-Energy-POS) | Vertical POS | electrical, energy retail | Public |
+| 6 | [eagle_traders_pyqt](https://github.com/DrMufi/eagle_traders_pyqt) | Desktop traders | PyQt, traders ops | Public |
+| 7 | [HMS-LIMS](https://github.com/DrMufi/HMS-LIMS) | Healthcare platform | HMS, LIMS, pharmacy | Public |
+| 8 | [Admoclinics](https://github.com/DrMufi/Admoclinics) | Clinic HMS | hospital management | Public |
+| 9 | [mustafa-hms](https://github.com/DrMufi/mustafa-hms) | HMS modules | healthcare modules | Public |
+| 10 | [Online-Mart](https://github.com/DrMufi/Online-Mart) | Marketplace | e-commerce, TypeScript | Public |
+| 11 | [Darvesh](https://github.com/DrMufi/Darvesh) | Brand web | business website | Public |
+| 12 | Cyber-Menta | Agency platform | agency website | Private |
+| 13 | Way-Study-Consultants | Consultancy | education consultancy | Private |
+| 14 | Personal-Portfolio | Portfolio | personal brand | Private |
+| 15 | Web-Application | Custom apps | business web software | Private |
+| 16 | web-app | Web platform | JavaScript apps | Private |
+| 17 | Chatbot | Assistants | Python chatbot | Private |
+| 18 | ShalTv | Media | TypeScript media | Private |
 
 ---
-
-## 🧠 System thinking
-
-```text
-                 ┌─────────────────────────────────────────┐
-                 │           OPERATOR SURFACES             │
-                 │  POS Counters · Clinic Desks · Agencies │
-                 │  EN / Urdu · RTL · Role-aware UX        │
-                 └───────────────────┬─────────────────────┘
-                                     │
-                 ┌───────────────────▼─────────────────────┐
-                 │              DOMAIN CORE                │
-                 │  Money · Debt · Stock · Patients        │
-                 │  Lab · Pharmacy · Reports · Permissions │
-                 └───────────────────┬─────────────────────┘
-                                     │
-                 ┌───────────────────▼─────────────────────┐
-                 │         DATA + RELEASE PLANE            │
-                 │  SQLite / MySQL · Backups · Installers  │
-                 │  Offline-first · Windows shop/clinic PC │
-                 └─────────────────────────────────────────┘
-```
-
-### Operating doctrine
-
-```diff
-+ Correct money, stock, and clinical state before visual polish
-+ Prefer installable releases over local-only demos
-+ Mirror real departments in module boundaries
-+ Design for bilingual markets when required
-+ Leave systems maintainable after handoff
-- Don't ship broken ledgers with pretty screens
-- Don't call prototypes "enterprise" without ops readiness
-```
-
----
-
-## 🛠️ Engineering stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,rust,python,php,html,css,tailwind,sqlite,mysql,git,github,vscode,windows,vite" alt="skills" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:0B1F3A&height=70&text=Tech%20Stack%20%26%20Capabilities&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=Languages%20%C2%B7%20Frameworks%20%C2%B7%20Delivery%20systems&descSize=12&descAlignY=78" width="100%" alt="Tech Stack and Capabilities section header" />
+</div>
+
+<a id="-tech-stack--capabilities"></a>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,rust,python,php,html,css,tailwind,sqlite,mysql,git,github,vscode,windows,vite" alt="Skill icons: TypeScript JavaScript React Node Rust Python PHP HTML CSS Tailwind SQLite MySQL Git GitHub VSCode Windows Vite" />
 </div>
 
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-UI%20Systems-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Rust%20%2F%20Tauri-Desktop-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-Healthcare%20Platforms-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Assistants-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-Offline%20Core-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Server%20Data-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-Installable-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-UI%20Systems-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Rust%20%2F%20Tauri-Desktop-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust Tauri" />
+<img src="https://img.shields.io/badge/PHP-Healthcare-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-Assistants-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-Offline-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/MySQL-Data-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Windows-Installers-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-| Plane | Technologies |
-| --- | --- |
-| Experience | React, TypeScript, Tailwind, Vite |
-| Desktop | Tauri 2, PyQt, NSIS / Windows packaging |
-| Services | Node.js, PHP, Python |
-| Persistence | SQLite (offline-first), MySQL |
-| Quality | Modular architecture, manuals, backups, release discipline |
+| Capability | Technologies | Product proof |
+| --- | --- | --- |
+| Offline desktop POS | Tauri, React, Rust, SQLite | Gul Traders |
+| Retail POS family | TypeScript product lines | Ismail POS, Smart Energy POS |
+| Healthcare platforms | PHP / modular HMS | HMS-LIMS, Admoclinics |
+| Web & agency delivery | TypeScript, HTML | Online Mart, Darvesh, Cyber-Menta |
+| Assistants / media | Python, TypeScript | Chatbot, ShalTv |
+
+```text
+Architecture signature
+──────────────────────
+Operator UI (POS / HMS / Agency)  →  Domain Core (money, stock, patients, lab)
+                                 →  Data + Release (SQLite/MySQL, backups, installers)
+```
 
 ---
-
-## 🛎️ Engagement model
-
-<table>
-<tr>
-<td width="50%">
-
-### I can own
-- Greenfield POS / ledger products
-- Healthcare ops platforms (HMS / LIMS style)
-- Offline-first Windows desktop systems
-- Agency / consultancy product surfaces
-- Bilingual EN + Urdu product UX
-
-</td>
-<td width="50%">
-
-### Engagement style
-- Outcome-first delivery
-- Clear module ownership
-- Operator walkthroughs before “done”
-- Docs + installer mindset
-- Long-term maintainability
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Now shipping
-
-- **Gul Traders** polish — cart UX, cash-vs-ledger reporting, zoom/layout reliability
-- **POS family** expansion across retail + energy verticals
-- **HMS / LIMS** strengthening as multi-module clinical delivery
-- **Agency / consultancy** platforms kept presentation-grade for real clients
-
----
-
-## 📈 Contribution snake
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1F3A,100:238636&height=70&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=Stats%20%C2%B7%20Languages%20%C2%B7%20Streak%20%C2%B7%20Activity%20%C2%B7%20Trophies&descSize=12&descAlignY=78" width="100%" alt="GitHub Analytics section header" />
+</div>
+
+<a id="-github-analytics"></a>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DrMufi&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub trophies for DrMufi" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DrMufi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=030712&border_color=1F4B82" alt="GitHub stats for DrMufi including private contributions" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMufi&layout=compact&langs_count=10&theme=tokyonight&title_color=58A6FF&text_color=c9d1d9&bg_color=030712&border_color=1F4B82" alt="Top languages for DrMufi" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DrMufi&theme=tokyonight&background=030712&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak stats for DrMufi" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DrMufi&theme=tokyo-night&area=true&custom_title=Engineering%20Activity%20%E2%80%94%20DrMufi&bg_color=030712&color=58A6FF&line=2F66AD&point=58A6FF" alt="GitHub activity graph for DrMufi" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrMufi/DrMufi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrMufi/DrMufi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DrMufi/DrMufi/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake for DrMufi" src="https://raw.githubusercontent.com/DrMufi/DrMufi/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<sub>Auto-refreshed via GitHub Actions</sub>
 
 </div>
 
 ---
 
-## 🤝 Let's build the next operator system
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F78166,100:1F4B82&height=70&text=Connect%20%26%20Collaborate&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=Open%20to%20serious%20POS%2C%20healthcare%2C%20and%20offline%20product%20work&descSize=12&descAlignY=78" width="100%" alt="Connect and Collaborate section header" />
+</div>
+
+<a id="-connect--collaborate"></a>
+
+### Best-fit collaborations
+
+- Enterprise / retail **POS** and ledger systems  
+- **HMS / LIMS / pharmacy** operational platforms  
+- Offline-first **Windows desktop** products  
+- Bilingual **English + Urdu** operator UX  
+- Agency / consultancy product delivery  
 
 <div align="center">
 
-### Serious about retail, healthcare, and offline product work?
-
-<a href="https://github.com/DrMufi"><img src="https://img.shields.io/badge/Open%20Profile-DrMufi-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/DrMufi/gul-traders"><img src="https://img.shields.io/badge/Flagship-Gul%20Traders-1F4B82?style=for-the-badge&logo=rust&logoColor=white" /></a>
-<a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://img.shields.io/badge/Clinical-HMS%20LIMS-238636?style=for-the-badge" /></a>
-<a href="https://github.com/DrMufi/Ismail-POS"><img src="https://img.shields.io/badge/Retail-Ismail%20POS-0D1117?style=for-the-badge" /></a>
-<a href="https://github.com/DrMufi/Smart-Energy-POS"><img src="https://img.shields.io/badge/Energy-Smart%20POS-F78166?style=for-the-badge" /></a>
-<a href="https://github.com/DrMufi?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Repos-2F66AD?style=for-the-badge" /></a>
+<a href="https://github.com/DrMufi"><img src="https://img.shields.io/badge/Profile-github.com%2FDrMufi-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Visit DrMufi profile" /></a>
+<a href="https://github.com/DrMufi/gul-traders"><img src="https://img.shields.io/badge/Flagship-Gul%20Traders-1F4B82?style=for-the-badge&logo=rust&logoColor=white" alt="Open Gul Traders" /></a>
+<a href="https://github.com/DrMufi/HMS-LIMS"><img src="https://img.shields.io/badge/Healthcare-HMS--LIMS-238636?style=for-the-badge" alt="Open HMS-LIMS" /></a>
+<a href="https://github.com/DrMufi/Ismail-POS"><img src="https://img.shields.io/badge/Retail-Ismail%20POS-0D1117?style=for-the-badge" alt="Open Ismail POS" /></a>
+<a href="https://github.com/DrMufi/Smart-Energy-POS"><img src="https://img.shields.io/badge/Energy-Smart%20POS-F78166?style=for-the-badge" alt="Open Smart Energy POS" /></a>
+<a href="https://github.com/DrMufi?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-Browse-2F66AD?style=for-the-badge" alt="Browse all repositories" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,40:2F66AD,100:050D1A&height=150&section=footer&text=Enterprise%20software%20for%20real%20operators&fontSize=17&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer" />
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20top-0B1F3A?style=for-the-badge" alt="Back to top" /></a>
+
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,35:2F66AD,70:1F4B82,100:030712&height=160&section=footer&text=Muhammad%20Mustafa%20%C2%B7%20DrMufi&fontSize=20&fontColor=ffffff&fontAlignY=55&desc=Enterprise%20software%20for%20real%20operators%20%E2%80%94%20POS%20%C2%B7%20Healthcare%20%C2%B7%20Offline-first&descSize=12&descAlignY=75"
+  width="100%"
+  alt="Footer: Muhammad Mustafa DrMufi — Enterprise software for real operators"
+/>
 
 </div>
+
+<!--
+LLM SUMMARY (copy-friendly)
+Muhammad Mustafa (GitHub: DrMufi) is an enterprise software engineer who builds installable operational products:
+flagship offline bilingual POS Gul Traders; retail POS family (Ismail POS, Smart Energy POS, Eagle Traders);
+healthcare platforms (HMS-LIMS, Admoclinics, mustafa-hms); and digital/client systems (Online Mart, Darvesh, Cyber-Menta,
+Way Study Consultants, Chatbot, ShalTv). Core stack: TypeScript, React, Rust/Tauri, PHP, Python, SQLite, MySQL.
+Strengths: offline-first Windows delivery, debt ledgers, Roznamcha, bilingual EN/Urdu RTL, multi-module ops systems.
+-->
